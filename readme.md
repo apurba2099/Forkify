@@ -32,6 +32,10 @@ forkify/ </br>
 ├── .gitignore </br>
 └── ...
 
+## 🔗 Live Demo
+Check out the live version here: 
+[Forkify Live Demo](https://apurba-forkifyrest.netlify.app/)
+
 
 ## 💡 Getting Started
 
@@ -50,6 +54,4 @@ npm run build
 
 ---
 
-## 🔗 Live Demo
-Check out the live version here: [Forkify Live Demo](https://apurba-forkifyrest.netlify.app/)
 
