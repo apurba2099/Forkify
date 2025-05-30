@@ -22,14 +22,14 @@ Forkify is a dynamic recipe web application that allows users to search for reci
 ## 📁 Folder Structure
 
 forkify/
-├── dist/
-├── src/
-│ ├── img/
-│ ├── js/
-│ └── sass/
-├── index.html
-├── package.json
-├── .gitignore
+├── dist/ </br>
+├── src/ </br>
+│ ├── img/ </br>
+│ ├── js/ </br>
+│ └── sass/ </br>
+├── index.html </br> 
+├── package.json </br> 
+├── .gitignore </br>
 └── ...
 
 
