@@ -1,8 +1,3 @@
-Sure! Here's your complete **GitHub README.md** for the **Forkify** project, all in one clean and professional format, ready to use:
-
----
-
-```markdown
 # 🍴 Forkify - Recipe Web Application
 
 Forkify is a dynamic recipe web application that allows users to search for recipes, upload their own, adjust ingredient quantities, and bookmark favorites — all in a clean, responsive interface.
@@ -17,15 +12,14 @@ Forkify is a dynamic recipe web application that allows users to search for reci
 
 ## 🛠 Tech Stack
 
-- HTML5
-- SCSS
-- JavaScript (ES6 Modules)
-- MVC Architecture
-- Parcel Bundler
+- HTML5  
+- SCSS  
+- JavaScript (ES6 Modules)  
+- MVC Architecture  
+- Parcel Bundler  
 - Forkify API (`https://forkify-api.herokuapp.com/`)
 
 ## 📁 Folder Structure
-```
 
 forkify/
 ├── dist/
@@ -38,48 +32,21 @@ forkify/
 ├── .gitignore
 └── ...
 
-````
 
 ## 💡 Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/apurba2099/forkify.git
+git clone https://github.com/yourusername/forkify.git
 cd forkify
-````
 
-### 2. Install Dependencies
-
-```bash
 npm install
-```
 
-### 3. Start Development Server
-
-```bash
 npm start
-```
 
-### 4. Build for Production
-
-```bash
 npm run build
-```
 
-## 🖼️ Preview
-
-> _\[Insert a screenshot or link to your live demo if available]_
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-> Built with ❤️ by Apurba Dutta
-
-```
 
 ---
 
@@ -87,4 +54,3 @@ Let me know if you'd like to include:
 - A live link
 - A screenshot section
 - Badges (e.g., GitHub stars, license)
-```
