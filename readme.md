@@ -21,7 +21,7 @@ Forkify is a dynamic recipe web application that allows users to search for reci
 
 ## 📁 Folder Structure
 
-forkify/
+forkify/ </br>
 ├── dist/ </br>
 ├── src/ </br>
 │ ├── img/ </br>
