@@ -51,6 +51,4 @@ npm run build
 ---
 
 Let me know if you'd like to include:
-- A live link
-- A screenshot section
-- Badges (e.g., GitHub stars, license)
+link- https://apurba-forkifyrest.netlify.app/
