@@ -51,5 +51,5 @@ npm run build
 ---
 
 ## 🔗 Live Demo
-Check out the live version here: [Forkify Live Demo](https://your-deployment-link.com](https://apurba-forkifyrest.netlify.app/)
+Check out the live version here: [Forkify Live Demo](https://apurba-forkifyrest.netlify.app/)
 
